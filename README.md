@@ -1,1 +1,1 @@
-#echo Spring Guest Application
+#Spring Guest Application
